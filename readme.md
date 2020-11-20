@@ -1,3 +1,4 @@
+```
 challenge_01: Solve Me First
 challenge_02: Simple Array Sum
 challenge_03: Compare the Triplets
@@ -8,3 +9,4 @@ challenge_07: Mini-Max Sum
 challenge_08:
 challenge_09:
 challenge_10:
+```
